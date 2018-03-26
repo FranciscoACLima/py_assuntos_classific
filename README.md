@@ -15,4 +15,4 @@ Por considerar a proximidade das palavras e não a sequência exata, o classific
 
 Na página [py_assuntos_classif Prova de Conceito](https://github.com/FranciscoACLima/py_assuntos_classific/blob/master/py_assuntos_classific%20prova%20de%20conceito.ipynb) há notebook utilizado no desenvolvimento do algoritmo, assim como uma prova de conceito de sua utilização.
 
-Na pasta [lib](https://github.com/FranciscoACLima/py_assuntos_classific/tree/master/lib) estão as ferramentas utilizadas na padronização do texto de entrada: retiradada da acentuação e das palavras que não alteram o sentido da frase, etc.
+Na pasta [lib](https://github.com/FranciscoACLima/py_assuntos_classific/tree/master/lib) estão as ferramentas utilizadas na padronização do texto de entrada: retirada da acentuação e das palavras que não alteram o sentido da frase, etc.
