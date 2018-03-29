@@ -8,7 +8,7 @@ O algoritmo foi desenvolvido para triagem de petições em processos eletrônico
 
 Nesta nova versão, as listas de busca continuam aceitando sequências do tipo E/OU ('OU' é uma lista de palavras sinônimas).
 
-O algoritmo, agora, normaliza o texto (retirando acentos e palavra descartáveis) e o converte em uma lista. Com esta lista "em maõs", segue a sequência abaixo:
+O algoritmo, agora, normaliza o texto (retirando acentos e palavra descartáveis) e o converte em uma lista. Com esta lista "em mãos", segue a sequência abaixo:
 * Primeiro procura todas as palavras independente da posição encontrada no texto e retorna suas posicoes.
 * Depois cria uma matriz com as sequências possíveis destas palavras.
 * Por fim, calcula a sequência com a menor distância média e, se ela estiver dentro da distância mínima definida, retorna a classe encontrada.
