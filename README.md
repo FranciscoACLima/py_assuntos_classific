@@ -2,7 +2,7 @@
 
 ## Classificador de Assuntos em Documentos
 
-**py_assuntos_classific** é um classificador de assuntos em documentos que faz a busca a partir de listas de palavras. Para o resultado da busca, considera, além das palavras encontradas, a distância média entre essa palavras. Quanto menor a média da distância entre as palavras, melhor é o resultado.
+**py_assuntos_classific** é um classificador de assuntos em documentos que faz a busca a partir de listas de palavras. Para o resultado da busca, considera, além das palavras encontradas, a distância média entre essas palavras. Quanto menor a média desta distância, melhor é o resultado.
 
 O algoritmo foi desenvolvido para triagem de petições em processos eletrônicos de Execução Fiscal e inicialmente, para evitar falsos positivos, utilizava uma técnica de busca em profundidade baseada numa sequência E/OU. O algoritmo percorria todo o texto em busca da sequência que identificasse o assunto do texto.
 
